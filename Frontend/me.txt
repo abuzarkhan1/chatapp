@@ -1,0 +1,13 @@
+ chakra-ui/icons
+ chakra-ui/react
+ @emotion/react
+ @emotion/styled
+ axios
+ chat-app
+ framer-motion
+ react-chips
+ react-lottie
+ react-notification-badge
+react-router-dom
+react-scrollable-feed
+socket.io-client
